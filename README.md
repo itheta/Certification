@@ -1,12 +1,12 @@
 # Certification
 
-1. Predictive Analytics
+Predictive Analytics
 
 Course: https://www.edx.org/course/predictive-analytics-iimbx-qm901x
 
 Certificate: https://courses.edx.org/certificates/9212d1de4cd54087b8da125db44ec034
 
-2. An Introduction to Statistical Learning with Applications in R
+An Introduction to Statistical Learning with Applications in R
 
 Course: https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
 
